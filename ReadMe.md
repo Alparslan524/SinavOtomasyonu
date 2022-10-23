@@ -20,6 +20,7 @@ Sınav yapacak öğrencilerin en sade ve basit bir uygulamayla, sadece sorulara 
 * [Soru Ekleme Ekranı](https://raw.githubusercontent.com/Alparslan524/SinavOtomasyonu/main/UygulamaResimleri/SoruEkleme.png)
 * [Sınav Ekranı](https://raw.githubusercontent.com/Alparslan524/SinavOtomasyonu/main/UygulamaResimleri/Sinav.png)
 * [Yeni kullanıcı Kayıt Ekranı](https://raw.githubusercontent.com/Alparslan524/SinavOtomasyonu/main/UygulamaResimleri/YeniKayıt.png)
+***
 ## Kullanılan Diller
 * C#
 ## Kullanılan Veritabanı
