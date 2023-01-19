@@ -28,6 +28,6 @@ Sınav yapacak öğrencilerin en sade ve basit bir uygulamayla, sadece sorulara 
 ***
 
 # Alparslan Aydoğan
-- [GitHub](https://github.com/Alparslan524?tab=repositories)
+- [GitHub](https://github.com/Alparslan524)
 - [Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
 ***
